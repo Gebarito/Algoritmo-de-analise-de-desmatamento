@@ -5,4 +5,4 @@ O projeto foi feito para feira de ciencias de minha faculdade (IFCIENCIA), como 
 
 # como executar
 Para executar o arquivo é necessario possuir o image processor toolkit, app que pode ser encontrado no MATLAB, apos isso submeta todas as imagens exceto a de escala
-no image batch processor, e faça ser executado na função calculateArea.m;
+no image batch processor, e faça ser executado a função calculateArea.m;
